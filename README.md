@@ -1,6 +1,6 @@
 # 📊 Interactive Investigation Operations Performance Dashboard
 
-## Dashboard Preview
+## Dashboard Preview 
 
 ![Dashboard](Dashboard_Screenshot.png)
 
