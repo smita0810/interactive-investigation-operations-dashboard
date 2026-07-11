@@ -99,3 +99,13 @@ The dataset includes:
 **Smita Chatterjee**
 
 Aspiring Data Analyst | Advanced Excel | Power BI | SQL
+
+---
+
+## 📌 Disclaimer
+
+This project is a personal portfolio project created solely for educational and demonstration purposes.
+
+The dataset used in this dashboard is **entirely synthetic** and was created by me to simulate investigation operations for analytics practice. It does **not** contain any real Amazon, customer, seller, or proprietary company data.
+
+The dashboard is intended to demonstrate skills in Microsoft Excel, data analysis, dashboard development, KPI reporting, and data visualization. Any similarity to real organizations or operational workflows is purely for illustrative purposes.
